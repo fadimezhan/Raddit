@@ -1,5 +1,7 @@
 == RADDIT
 
+Raddit is a Reddit Clone with Rails 4.
+
 Things that it made:
 
 * Sign up / Sign in & Sign Out
