@@ -1,28 +1,13 @@
-== README
+== RADDIT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Things that it made:
 
-Things you may want to cover:
+* Sign up / Sign in & Sign Out
 
-* Ruby version
+* Submit a link with a Title&Url
 
-* System dependencies
+* Vote up or down on a link 
 
-* Configuration
+* Comment on links submissions
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Gems are used devise, bootstrap, simple_form, acts_as_votable.
